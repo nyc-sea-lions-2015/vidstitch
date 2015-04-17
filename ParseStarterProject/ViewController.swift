@@ -6,6 +6,7 @@
 
 import UIKit
 import Parse
+import Foundation
 
 class ViewController: UIViewController {
 
